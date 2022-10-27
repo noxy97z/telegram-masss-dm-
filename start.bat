@@ -1,2 +1,2 @@
-python manager.py
+python scraper.py
 pause
